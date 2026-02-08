@@ -9,6 +9,13 @@
 
 - 📫 How to reach me **amir.chaoui.pro@gmail.com**
 
+### 🚀 My Projects (under revision)
+
+| Name | Description | Stack Tech | Date | Link |
+| :--- | :--- | :--- | :--- | :--- |
+| **DashMed** | A dashboard for patient monitoring. | `HTML` `CSS` `PHP` `JavaScript` `MYSQL` | September 2025 - Now | [Repo Link](https://github.com/TheoGHEUX/DashMed) |
+| **Super Bomberman** | A remake of the famous game Bomberman. | `Java` `JavaFX` `CSS` | June 2025 | [Repo Link](https://github.com/AmirTahaChaoui/BOMBERMAN) |
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amir-taha-chaoui-0a1432341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-taha-chaoui-0a1432341" height="30" width="40" /></a>
